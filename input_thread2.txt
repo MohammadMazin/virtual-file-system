@@ -1,0 +1,8 @@
+delete filenew.txt
+show_memory_map
+open file1.txt
+read file1.txt
+write_to_file file1.txt hahahahahaha
+close file1.txt
+show_memory_map
+exit
